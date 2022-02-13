@@ -1,2 +1,2 @@
 # Arduino-Bluetooth-Car
-Bluetooth controlled Arduino car.
+Simple bluetooth controlled Arduino car.
